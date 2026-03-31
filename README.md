@@ -17,10 +17,13 @@
 ### 💻 System Lifecycle (Fixed Syntax)
 
 ```javascript
+
 /**
  * AnyMind Candidate Profile: Linh
  * Optimizing for: AdTech, Growth, and Emotional Resilience.
  */
+
+const isAlive = true; // Essential flag
 
 async function dailyLifeCycle() {
   const currentStack = ['Typescript', 'React', 'Node.js', 'Python', 'AdTech APIs'];
@@ -34,7 +37,7 @@ async function dailyLifeCycle() {
       await processEmotionalData('Old_Ex_BF');
     } catch (MemoryLeakError) {
       console.warn("Minor issue: Missing ex detected. Continuing to code.");
-      // Fallback: Drink more HK Milk Tea and push to Production ☕
+      // Fallback: Drink more HK Boba Tea and push to Production ☕
     }
   }
 }
