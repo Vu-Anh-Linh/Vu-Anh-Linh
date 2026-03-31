@@ -1,15 +1,9 @@
 <table>
   <tr>
-    <td width="220px" align="center" valign="top">
-      <img src="https://github.com/Vu-Anh-Linh/Vu-Anh-Linh/blob/main/Vu-Anh-Linh.jpg" width="200px" style="border-radius: 50%; border: 2px solid #5865F2;" alt="Linh in HK" />
-    </td>
-
-  <tr>
     <td width="30%" align="center" valign="top">
       <img src="https://github.com/Vu-Anh-Linh/Vu-Anh-Linh/blob/main/Vu-Anh-Linh.jpg" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="Linh in HK" />
     </td>
     <td width="70%" valign="top" style="padding-left: 20px;">
-    
     <td valign="top">
       <h2>Linh | Tech Expat 🇭🇰</h2>
       <p>🚀 <b>Digital Marketing & AdTech Specialist</b></p>
