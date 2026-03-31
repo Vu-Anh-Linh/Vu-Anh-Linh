@@ -47,7 +47,7 @@ async function dailyLifeCycle() {
 <table>
   <tr>
     <td>
-      <img src="YOUR_IMAGE_URL" width="200px" style="border-radius: 50%;" alt="Linh in HK""")/>>
+      <img src="https://github.com/Vu-Anh-Linh/Vu-Anh-Linh/blob/main/Vu-Anh-Linh.jpg="200px" style="border-radius: 50%;" alt="Linh in HK""")/>>
     </td>
     <td>
       <h2>Linh | Tech Expat 🇭🇰</h2>
