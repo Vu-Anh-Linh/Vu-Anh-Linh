@@ -18,19 +18,20 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://github.com/Vu-Anh-Linh/Vu-Anh-Linh/blob/main/Vu-Anh-Linh.jpg"200px" style="border-radius: 50%;" alt="Linh in HK""")/>>
+    <td width="220px" align="center" valign="top">
+      <img src="YOUR_IMAGE_URL" width="200px" style="border-radius: 50%; border: 2px solid #5865F2;" alt="Linh in HK" />
     </td>
-    <td>
+    <td valign="top">
       <h2>Linh | Tech Expat 🇭🇰</h2>
+      <p>🚀 <b>Digital Marketing & AdTech Specialist</b></p>
       <p>Building the future of AdTech at the intersection of code and culture.</p>
-      <p><i>"Debugging my heart, one line of code at a time."</i></p>
+      <p><i>"Debugging my heart, one line of code at a time."</i> 💔</p>
+      <hr />
+      <p>📍 <b>Based in:</b> The 852 (HK) | 🏠 <b>Home:</b> Vietnam 🇻🇳</p>
     </td>
   </tr>
 </table>
 
-  }
-}
 
 ### 💻 System Lifecycle (Fixed Syntax)
 
