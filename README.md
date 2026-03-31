@@ -14,6 +14,25 @@
   </tr>
 </table>
 
+<table width="100%">
+  <tr>
+    <td width="280px" align="center" valign="middle">
+      <!-- Fixed width image to prevent it from growing too tall -->
+      <img src="https://github.com/Vu-Anh-Linh/Vu-Anh-Linh/blob/main/Vu-Anh-Linh.jpg" width="260px" style="border-radius: 12px; border: 1px solid #30363d;" alt="Linh" />
+    </td>
+    <td valign="middle" style="padding-left: 25px;">
+      <h1>Linh | Tech Expat 🇭🇰 🇻🇳</h1>
+      <h3>🚀 Digital Marketing & AdTech Specialist</h3>
+      <p>Building the future of AdTech at the intersection of code and culture.</p>
+      <p><i>"Debugging my heart, one line of code at a time."</i> 💔</p>
+      <hr />
+      <p>📍 <b>Based in:</b> The 852 (HK) | 🏠 <b>Home:</b> Vietnam</p>
+      <!-- Adding a bit more text here fills the vertical space -->
+      <p>📧 <b>Connect:</b> [Your Email/LinkedIn Link]</p>
+    </td>
+  </tr>
+</table>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
