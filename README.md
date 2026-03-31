@@ -1,29 +1,40 @@
+# Hello, I'm Linh! 👋 
 
+<div align="center">
+  <img src="https://cdn-contents.anymindgroup.com/corporate/wp-uploads/2025/07/24180651/DSCF3716-1-1.jpg" alt="Linh's HK AnyMind Banner" width="100%">
+</div>
 
-🚀 Tech Expat in Hong Kong
-💼 Currently: Building tech solutions for the Digital Marketing space.
-📍 Based in: 🇭🇰 Hong Kong (The 852)
+🚀 **Tech Expat in Hong Kong** | **Digital Marketing & AdTech Specialist**  
+💼 **Focus:** Bridging the gap between HK Tech and the Vietnam/SEA markets.  
+📍 **Current Node:** 🇭🇰 Hong Kong (The 852)
 
-    🔭 I’m currently working on: Optimizing ad-tech funnels and high-conversion landing pages.
-    ⚡ Fun Fact: I moved to HK for the skyline, stayed for the efficient MTR, but still haven't found a way to git checkout of my feelings for my ex.
-    💬 Ask me about: AdTech, Full-stack development, the best hiking trails in HK, or how to deal with a broken heart while fixing broken code.
+- 🔭 **Targeting:** **AnyMind Group** (Passionate about their end-to-end commerce & marketing tech ecosystem).
+- ⚡ **Fun Fact:** I just moved to HK for the skyline and stayed for the MTR... though I'm still trying to `git checkout` of my feelings for my ex-BF. 
+- 💔 **Status:** 404 Error: Old Boyfriend not found, but his memory is still causing a minor leak in my `heart.js`.
 
-    📉 Current Status:
-        Dim Sum: Found 🥟
-        852 Vibes: High 🏮
-        Clean Code: Writing 💻
-        Ex-Boyfriend: 404 Not Found (but still searching the logs) 💔
+---
 
-while (alive) {
-  code();
-  explore(HK);
+### 💻 System Lifecycle (Fixed Syntax)
+
+```javascript
+/**
+ * AnyMind Candidate Profile: Linh
+ * Optimizing for: AdTech, Growth, and Emotional Resilience.
+ */
+
+async function dailyLifeCycle() {
+  const currentStack = ['Typescript', 'React', 'Node.js', 'Python', 'AdTech APIs'];
   
-  if (nightTime && alone) {
-    console.log("Missing the ex... 🍺");
+  while (isAlive) {
+    await buildFuture('DigitalMarketing');
+    explore('Hong Kong'); // 🥟 & ⛰️
+
     try {
-        forget(ex);
+      // Attempting to clear cache from previous relationships
+      await processEmotionalData('Old_Ex_BF');
     } catch (MemoryLeakError) {
-        continue; // Keep moving forward
+      console.warn("Minor issue: Missing ex detected. Continuing to code.");
+      // Fallback: Drink more HK Milk Tea and push to Production ☕
     }
   }
 }
