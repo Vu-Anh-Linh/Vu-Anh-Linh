@@ -43,5 +43,19 @@ async function dailyLifeCycle() {
       console.warn("Minor issue: Missing ex detected. Continuing to code.");
       // Fallback: Drink more HK Boba Tea and push to Production ☕
     }
+
+<table>
+  <tr>
+    <td>
+      <img src="YOUR_IMAGE_URL" width="200px" style="border-radius: 50%;" alt="Linh in HK""")/>>
+    </td>
+    <td>
+      <h2>Linh | Tech Expat 🇭🇰</h2>
+      <p>Building the future of AdTech at the intersection of code and culture.</p>
+      <p><i>"Debugging my heart, one line of code at a time."</i></p>
+    </td>
+  </tr>
+</table>
+
   }
 }
