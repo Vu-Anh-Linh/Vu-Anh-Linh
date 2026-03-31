@@ -1,10 +1,9 @@
-<table>
+<table width="100%">
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="https://github.com/Vu-Anh-Linh/Vu-Anh-Linh/blob/main/Vu-Anh-Linh.jpg" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="Linh in HK" />
+      <img src="YOUR_IMAGE_URL" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" alt="Linh in HK" />
     </td>
     <td width="70%" valign="top" style="padding-left: 20px;">
-    <td valign="top">
       <h2>Linh | Tech Expat 🇭🇰</h2>
       <p>🚀 <b>Digital Marketing & AdTech Specialist</b></p>
       <p>Building the future of AdTech at the intersection of code and culture.</p>
@@ -14,6 +13,7 @@
     </td>
   </tr>
 </table>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
