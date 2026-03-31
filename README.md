@@ -4,8 +4,7 @@
   <img src="https://cdn-contents.anymindgroup.com/corporate/wp-uploads/2025/07/24180651/DSCF3716-1-1.jpg" alt="Linh's HK AnyMind Banner" width="100%">
 </div>
 
-
-
+<br/>
 
 🚀 **Tech Expat in Hong Kong** | **Digital Marketing & AdTech Specialist**  
 💼 **Focus:** Bridging the gap between HK Tech and the Vietnam/SEA markets.  
