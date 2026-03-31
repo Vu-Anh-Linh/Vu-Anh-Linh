@@ -13,7 +13,6 @@
         <p><i>"Debugging my heart, one line of code at a time."</i> 💔</p>
         <hr style="border: 0.5px solid #30363d; margin: 20px 0;" />
         <p>📍 <b>Based in:</b> The 852 (HK) | 🏠 <b>Home:</b> Vietnam</p>
-        <p>📧 <b>Let's Connect:</b> [Your Email/LinkedIn]</p>
       </td>
     </tr>
   </table>
