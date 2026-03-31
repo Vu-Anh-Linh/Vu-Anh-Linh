@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="220px" align="center" valign="top">
-      <img src="YOUR_IMAGE_URL" width="200px" style="border-radius: 50%; border: 2px solid #5865F2;" alt="Linh in HK" />
+      <img src="https://github.com/Vu-Anh-Linh/Vu-Anh-Linh/blob/main/Vu-Anh-Linh.jpg" width="200px" style="border-radius: 50%; border: 2px solid #5865F2;" alt="Linh in HK" />
     </td>
     <td valign="top">
       <h2>Linh | Tech Expat 🇭🇰</h2>
