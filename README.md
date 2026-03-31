@@ -1,5 +1,3 @@
-# Hello, I'm Linh! 👋 
-
 <div align="center">
   <img src="https://cdn-contents.anymindgroup.com/corporate/wp-uploads/2025/07/24180651/DSCF3716-1-1.jpg" alt="Linh's HK AnyMind Banner" width="100%">
 </div>
@@ -21,7 +19,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Vu-Anh-Linh/Vu-Anh-Linh/blob/main/Vu-Anh-Linh.jpg="200px" style="border-radius: 50%;" alt="Linh in HK""")/>>
+      <img src="https://github.com/Vu-Anh-Linh/Vu-Anh-Linh/blob/main/Vu-Anh-Linh.jpg"200px" style="border-radius: 50%;" alt="Linh in HK""")/>>
     </td>
     <td>
       <h2>Linh | Tech Expat 🇭🇰</h2>
