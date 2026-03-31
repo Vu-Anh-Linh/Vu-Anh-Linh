@@ -4,9 +4,14 @@
   <img src="https://cdn-contents.anymindgroup.com/corporate/wp-uploads/2025/07/24180651/DSCF3716-1-1.jpg" alt="Linh's HK AnyMind Banner" width="100%">
 </div>
 
+
+
+
 🚀 **Tech Expat in Hong Kong** | **Digital Marketing & AdTech Specialist**  
 💼 **Focus:** Bridging the gap between HK Tech and the Vietnam/SEA markets.  
 📍 **Current Node:** 🇭🇰 Hong Kong (The 852)
+
+
 
 - 🔭 **Targeting:** **AnyMind Group** (Passionate about their end-to-end commerce & marketing tech ecosystem).
 - ⚡ **Fun Fact:** I just moved to HK for the skyline and stayed for the MTR... though I'm still trying to `git checkout` of my feelings for my ex-BF. 
