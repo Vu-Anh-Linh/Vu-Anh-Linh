@@ -1,3 +1,21 @@
+<table>
+  <tr>
+    <td width="220px" align="center" valign="top">
+      <img src="YOUR_IMAGE_URL" width="200px" style="border-radius: 50%; border: 2px solid #5865F2;" alt="Linh in HK" />
+    </td>
+    <td valign="top">
+      <h2>Linh | Tech Expat 🇭🇰</h2>
+      <p>🚀 <b>Digital Marketing & AdTech Specialist</b></p>
+      <p>Building the future of AdTech at the intersection of code and culture.</p>
+      <p><i>"Debugging my heart, one line of code at a time."</i> 💔</p>
+      <hr />
+      <p>📍 <b>Based in:</b> The 852 (HK) | 🏠 <b>Home:</b> Vietnam 🇻🇳</p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <img src="https://cdn-contents.anymindgroup.com/corporate/wp-uploads/2025/07/24180651/DSCF3716-1-1.jpg" alt="Linh's HK AnyMind Banner" width="100%">
 </div>
@@ -15,23 +33,6 @@
 - 💔 **Status:** 404 Error: Old Boyfriend not found, but his memory is still causing a minor leak in my `heart.js`.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<table>
-  <tr>
-    <td width="220px" align="center" valign="top">
-      <img src="YOUR_IMAGE_URL" width="200px" style="border-radius: 50%; border: 2px solid #5865F2;" alt="Linh in HK" />
-    </td>
-    <td valign="top">
-      <h2>Linh | Tech Expat 🇭🇰</h2>
-      <p>🚀 <b>Digital Marketing & AdTech Specialist</b></p>
-      <p>Building the future of AdTech at the intersection of code and culture.</p>
-      <p><i>"Debugging my heart, one line of code at a time."</i> 💔</p>
-      <hr />
-      <p>📍 <b>Based in:</b> The 852 (HK) | 🏠 <b>Home:</b> Vietnam 🇻🇳</p>
-    </td>
-  </tr>
-</table>
-
 
 ### 💻 System Lifecycle (Fixed Syntax)
 
