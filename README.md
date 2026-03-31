@@ -1,20 +1,3 @@
-<table width="100%">
-  <tr>
-    <td width="280px" align="center" valign="middle">
-      <!-- Fixed width image to prevent it from growing too tall -->
-      <img src="https://github.com/Vu-Anh-Linh/Vu-Anh-Linh/blob/main/Vu-Anh-Linh.jpg" width="260px" style="border-radius: 12px; border: 1px solid #30363d;" alt="Linh" />
-    </td>
-    <td valign="middle" style="padding-left: 25px;">
-      <h1>Vũ Ánh Linh - 靈 | Tech Expat 🇭🇰 🇻🇳</h1>
-      <h3>🚀 Digital Marketing & AdTech Specialist</h3>
-      <p>Building the future of AdTech at the intersection of code and culture.</p>
-      <p><i>"Debugging my heart, one line of code at a time."</i> 💔</p>
-      <hr />
-      <p>📍 <b>Based in:</b> The 852 (HK) | 🏠 <b>Home:</b> Vietnam</p>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; background-color: #0d1117;">
     <tr>
