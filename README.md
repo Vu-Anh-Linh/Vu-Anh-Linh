@@ -4,19 +4,19 @@
   <img src="https://cdn-contents.anymindgroup.com/corporate/wp-uploads/2025/07/24180651/DSCF3716-1-1.jpg" alt="Linh's HK AnyMind Banner" width="100%">
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 🚀 **Tech Expat in Hong Kong** | **Digital Marketing & AdTech Specialist**  
 💼 **Focus:** Bridging the gap between HK Tech and the Vietnam/SEA markets.  
 📍 **Current Node:** 🇭🇰 Hong Kong (The 852)
 
-
+<br/>
 
 - 🔭 **Targeting:** **AnyMind Group** (Passionate about their end-to-end commerce & marketing tech ecosystem).
 - ⚡ **Fun Fact:** I just moved to HK for the skyline and stayed for the MTR... though I'm still trying to `git checkout` of my feelings for my ex-BF. 
 - 💔 **Status:** 404 Error: Old Boyfriend not found, but his memory is still causing a minor leak in my `heart.js`.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💻 System Lifecycle (Fixed Syntax)
 
