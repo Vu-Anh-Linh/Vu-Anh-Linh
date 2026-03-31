@@ -18,6 +18,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Vu-Anh-Linh/Vu-Anh-Linh/blob/main/Vu-Anh-Linh.jpg="200px" style="border-radius: 50%;" alt="Linh in HK""")/>>
+    </td>
+    <td>
+      <h2>Linh | Tech Expat 🇭🇰</h2>
+      <p>Building the future of AdTech at the intersection of code and culture.</p>
+      <p><i>"Debugging my heart, one line of code at a time."</i></p>
+    </td>
+  </tr>
+</table>
+
+  }
+}
+
 ### 💻 System Lifecycle (Fixed Syntax)
 
 ```javascript
@@ -44,18 +60,3 @@ async function dailyLifeCycle() {
       // Fallback: Drink more HK Boba Tea and push to Production ☕
     }
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/Vu-Anh-Linh/Vu-Anh-Linh/blob/main/Vu-Anh-Linh.jpg="200px" style="border-radius: 50%;" alt="Linh in HK""")/>>
-    </td>
-    <td>
-      <h2>Linh | Tech Expat 🇭🇰</h2>
-      <p>Building the future of AdTech at the intersection of code and culture.</p>
-      <p><i>"Debugging my heart, one line of code at a time."</i></p>
-    </td>
-  </tr>
-</table>
-
-  }
-}
